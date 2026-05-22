@@ -59,10 +59,10 @@ Each chapter contains:
 
 | Chapter | Topic | Status |
 |----------|-------|---------|
-| 1 | Introduction | ⬜ Not Started |
-| 2 | A Crash Course in Python | ⬜ Not Started |
-| 3 | Visualizing Data | ⬜ Not Started |
-| 4 | Linear Algebra | ⬜ Not Started |
+| 1 | Introduction | ✅ Completed |
+| 2 | A Crash Course in Python | ✅ Completed |
+| 3 | Visualizing Data | ✅ Completed |
+| 4 | Linear Algebra | 🟨 In progress |
 | 5 | Statistics | ⬜ Not Started |
 | 6 | Probability | ⬜ Not Started |
 | 7 | Hypothesis and Inference | ⬜ Not Started |
