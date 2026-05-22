@@ -1,6 +1,6 @@
 # Data Science from Scratch — Joel Grus
 
-A structured, chapter-by-chapter implementation of *Data Science from Scratch: First Principles with Python (Second Edition)* by Joel Grus.
+A structured, chapter-by-chapter implementation of *Data Science from Scratch: First Principles with Python (First Edition)* by Joel Grus.
 
 This repository documents my journey through the book, where I rebuild concepts from first principles, solve exercises, run experiments, and develop a strong understanding of core data science and machine learning fundamentals.
 
@@ -8,7 +8,7 @@ This repository documents my journey through the book, where I rebuild concepts 
 
 - **Title:** *Data Science from Scratch: First Principles with Python*
 - **Author:** Joel Grus
-- **Edition:** Second Edition
+- **Edition:** First Edition
 - **Focus:** Building data science intuition by implementing concepts from scratch
 
 ## Goals of this repository
