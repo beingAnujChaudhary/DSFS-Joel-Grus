@@ -1,5 +1,3 @@
-
-````md
 # Chapter 6 — Probability
 
 ## Chapter overview
@@ -263,30 +261,3 @@ As I move toward advanced ML and LLMs, probability is the underlying language. C
 Chapter 6 transitions from descriptive statistics to the mathematics of uncertainty. It establishes the rules of conditional probability and Bayes's Theorem, highlighting how easily human intuition fails when base rates are ignored. It then introduces continuous distributions, focusing heavily on the Normal distribution and its PDF/CDF implementations. Finally, the Central Limit Theorem explains why the Normal distribution is the default assumption in statistics: because averages of random processes naturally converge to it. This chapter provides the probabilistic toolkit required for hypothesis testing, generative modeling, and understanding the stochastic nature of machine learning algorithms.
 
 > *"Probability is the logic of science, and the science of logic."*
-````
-
-### ✅ Why this combined version works best:
-
-| Feature | Benefit |
-|---------|---------|
-| **Balanced Depth** | Keeps the simple, readable mental models of ChatGPT while retaining the rigorous math and code from Qwen. |
-| **Code-First Explanations** | Directly mirrors the book's from-scratch implementations (updated to Python 3 `print()` syntax). |
-| **Paradox Highlights** | Clearly explains the Boy/Girl and Medical Test paradoxes, which are favorite interview topics. |
-| **Expanded ML Mapping** | Adds "Uncertainty & Base Rates" to the table, bridging the gap between classic stats and modern AI confidence estimation. |
-| **Clean Formatting** | Removes weird artifacts (like the `::contentReference` glitch) and ensures smooth, professional prose. |
-
-### 🎯 Next Steps
-
-1. Save the markdown above to `notebooks/chapter_06_probability/chapter_notes.md`.
-2. Update your main `README.md` progress tracker:
-   ```md
-   | 6 | Probability | 🟨 In Progress |
-   ```
-3. Commit your progress:
-   ```powershell
-   git add .
-   git commit -m "Add Chapter 6 notes - probability fundamentals & intuition"
-   git push origin main
-   ```
-
-Let me know when you're ready to generate the code notebooks (`06_probability.ipynb`, `exercises.ipynb`) or if you'd like to dive straight into **Chapter 7: Hypothesis and Inference**! 🎲📊
